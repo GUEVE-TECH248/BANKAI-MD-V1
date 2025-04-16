@@ -9,8 +9,8 @@
 </a>
 
 <p align="center">
-DARE-V3 Multi Device is a automated whatsapp bot created by <a href="https://github.com/Dare-0-1" target="_blank">BMB</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
-</a> <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BANKAI-V2+WHATSAPP+BOT" alt="">
+BANKAI-MD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Dare-0-1" target="_blank">BMB</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
+</a> <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BANKAI-V1+WHATSAPP+BOT" alt="">
 </p>
 
 <p align="center">
